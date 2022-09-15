@@ -15,8 +15,7 @@ import VideoPlayer from "./components/VideoPlayer.vue";
     container-height="500px"
     video-width="400px"
     video-height="400px"
-    ><div>custom controls</div></VideoPlayer
-  >
+  ></VideoPlayer>
 </template>
 
 <style scoped></style>
