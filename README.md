@@ -1,1 +1,1 @@
-## Video Component
+## Vue Video Component
